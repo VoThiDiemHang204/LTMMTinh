@@ -1,0 +1,12 @@
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.csproj.AssemblyReference.cache
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.FormPhanQuyen.resources
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.Properties.Resources.resources
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.csproj.GenerateResource.cache
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.csproj.CoreCompileInputs.cache
+D:\LTMMTinh\KiemTra2\bin\Debug\KiemTra2.exe.config
+D:\LTMMTinh\KiemTra2\bin\Debug\KiemTra2.exe
+D:\LTMMTinh\KiemTra2\bin\Debug\KiemTra2.pdb
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.exe
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.pdb
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.exe.config
+D:\LTMMTinh\KiemTra2\obj\Debug\KiemTra2.FormLogin.resources
